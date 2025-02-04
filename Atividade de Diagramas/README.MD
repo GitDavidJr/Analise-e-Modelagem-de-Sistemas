@@ -36,9 +36,3 @@ Este repositório contém a atividade completa, com todos os diagramas UML elabo
 
 - **Diagramas UML**: Todos os diagramas produzidos durante o estudo.
 - **Respostas**: Detalhes das soluções e explicações sobre cada diagrama.
-  
-## Como Usar
-
-1. Clone este repositório em sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
