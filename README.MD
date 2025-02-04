@@ -1,7 +1,5 @@
 # Análise e Modelagem de Sistema (AMS) - IFBA
 
-# Análise e Modelagem de Sistema (AMS) - IFBA
-
 Este repositório é dedicado à documentação das minhas atividades e aprendizados na disciplina de Análise e Modelagem de Sistema (AMS) do curso de Bacharelado em Sistemas de Informação do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA). Aqui, compartilho as experiências práticas que vivenciei ao longo do desenvolvimento de um projeto de software real, com foco na aplicação dos conceitos de análise e modelagem de sistemas abordados em aula.
 
 A matéria, sob a orientação da professora Crijina Chagas Flores, envolve o desenvolvimento de soluções para um cliente real, oferecendo a oportunidade de aplicar os conhecimentos adquiridos em situações reais de mercado.
